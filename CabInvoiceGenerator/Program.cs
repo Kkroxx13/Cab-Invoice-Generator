@@ -20,8 +20,8 @@ namespace CabInvoiceGenerator
                 rides[i] = new Ride(distance, time);
             }
            
-            double fare2=invoiceGenerator.CalculateFare(rides);
-            Console.WriteLine(fare2);
+            //double fare2=invoiceGenerator.CalculateFare(rides);
+            //Console.WriteLine(fare2);
 
         }
     }
